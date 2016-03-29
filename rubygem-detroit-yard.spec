@@ -4,7 +4,7 @@
 #
 Name     : rubygem-detroit-yard
 Version  : 0.2.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/detroit-yard-0.2.0.gem
 Source0  : https://rubygems.org/downloads/detroit-yard-0.2.0.gem
 Summary  : No detailed summary available
@@ -50,46 +50,13 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/detroit-yard-0.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/assemble%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/assemble-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/cdesc-Yard.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/clean-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/current%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/document-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/exclude-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/extra-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/files%3d-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/files-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/ignore-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/initialize_defaults-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/initialize_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/initialize_requires-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/man_page-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/output-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/purge-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/readme-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/reset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/resolved_files-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/resolved_topfiles-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/template-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/title-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/topfiles%3d-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/topfiles-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/yard_target-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/Yard/yardopts-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/Detroit/cdesc-Detroit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/page-COPYING_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/page-LICENSE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-yard-0.2.0/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/.ruby
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/COPYING.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/lib/detroit-yard.rb
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/man/detroit-yard.5
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/man/detroit-yard.5.html
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-yard-0.2.0/man/detroit-yard.5.ronn
-/usr/lib64/ruby/gems/2.2.0/specifications/detroit-yard-0.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/detroit-yard-0.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/.ruby
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/COPYING.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/lib/detroit-yard.rb
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/man/detroit-yard.5
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/man/detroit-yard.5.html
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-yard-0.2.0/man/detroit-yard.5.ronn
+/usr/lib64/ruby/gems/2.3.0/specifications/detroit-yard-0.2.0.gemspec
